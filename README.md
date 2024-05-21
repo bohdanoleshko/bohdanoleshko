@@ -23,13 +23,13 @@
 <div class="project">
     <h3><a href="https://gepur.com/uk">GEPUR</a></h3>
     <p>Led frontend development for this stylish women's apparel e-commerce site, crafting core pages and shopping features for a seamless user experience.</p>
-    <img src="gepur.png" alt="Image of Gepur website">
+    <img src="1gepur.png" alt="Image of Gepur website">
 </div>
 
 <div class="project">
     <h3><a href="https://www.trendhim.com/">Trendhim</a></h3>
     <p>Developed and maintained key features for this popular men's accessories eCommerce store. Utilized React, Next.js, and Node.js to create a visually appealing and highly functional interface, ensuring a smooth shopping experience for customers.</p>
-    <img src="trendhim.png" alt="Image of Trendhim website">
+    <img src="1trendhim.png" alt="Image of Trendhim website">
 </div>
 
 <div class="project">
@@ -41,7 +41,7 @@
 <div class="project">
     <h3><a href="https://dishpatch.co.uk/">Dishpatch</a></h3>
     <p>Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.</p>
-    <img src="dishpatch.png" alt="Image of Dishpatch website">
+    <img src="1dishpatch.png" alt="Image of Dishpatch website">
 </div>
 
 
