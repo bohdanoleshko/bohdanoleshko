@@ -18,7 +18,7 @@
     <li>Other: Git, GitHub, Agile methodologies, Responsive Design</li>
 </ul>
 
-<h2>✨ Portfolio Highlights</h2>
+<h2>💼 Portfolio Highlights</h2>
 
 <div class="project">
     <h3><a href="https://gepur.com/uk">GEPUR</a></h3>
