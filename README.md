@@ -11,16 +11,16 @@
 
 ✨ Portfolio Highlights
 
-* **GEPUR (https://gepur.com/uk)**: Led frontend development for this stylish women's apparel e-commerce site, crafting core pages and shopping features for a seamless user experience.
+* **[GEPUR](https://gepur.com/uk)**: Led frontend development for this stylish women's apparel e-commerce site, crafting core pages and shopping features for a seamless user experience.
 [Image of Gepur website]
 
-* **Trendhim (https://www.trendhim.com/)**:  Developed and maintained key features for this popular men's accessories eCommerce store. Utilized React, Next.js, and Node.js to create a visually appealing and highly functional interface, ensuring a smooth shopping experience for customers. 
+* **[Trendhim](https://www.trendhim.com/)**:  Developed and maintained key features for this popular men's accessories eCommerce store. Utilized React, Next.js, and Node.js to create a visually appealing and highly functional interface, ensuring a smooth shopping experience for customers. 
 [Image of Trendhim website]
 
-* **INGO (https://ingo.ua/)**: Enhanced the user experience of this insurance platform with intuitive UI/UX components and robust Node.js-based user authentication.
+* **[INGO](https://ingo.ua/)**: Enhanced the user experience of this insurance platform with intuitive UI/UX components and robust Node.js-based user authentication.
 [Image of INGO website]
 
-* **Dishpatch (https://dishpatch.co.uk/)**: Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.
+* **[Dishpatch](https://dishpatch.co.uk/)**: Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.
 [Image of Dishpatch website]
 
 
@@ -35,6 +35,6 @@
 🤝 Let's Connect!
 
 Interested in collaborating on your next project? Feel free to reach out!
-* Upwork: [[Your Upwork Profile Link]](https://www.upwork.com/freelancers/~0181b03ee636205c0e?mp_source=share)
+* Upwork: [Bohdan Oleshko](https://www.upwork.com/freelancers/~0181b03ee636205c0e?mp_source=share)
 
 Let's build something amazing together! 🚀
