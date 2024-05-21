@@ -45,6 +45,13 @@ img {
     max-width: 100%;
 }
 
+.project img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
 /* Responsive Design (Optional) */
 @media (max-width: 768px) {
     body {
