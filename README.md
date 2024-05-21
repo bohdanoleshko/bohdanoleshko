@@ -40,7 +40,7 @@
     <p>Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.</p>
 </div>
 <div class="project">
-    <img src="gepur_preview.png" alt="Image of Gepur website" width="50%">        <img src="trendhim_preview.png" alt="Image of Trendhim website" width="50%">        <img src="ingo_preview.png" alt="Image of INGO website" width="50%">        <img src="dishpatch_preview.png" alt="Image of Dishpatch website" width="50%">
+    <img src="gepur_preview.png" alt="Image of Gepur website" width="45%">        <img src="trendhim_preview.png" alt="Image of Trendhim website" width="45%">        <img src="ingo_preview.png" alt="Image of INGO website" width="45%">        <img src="dishpatch_preview.png" alt="Image of Dishpatch website" width="45%">
 </div>
 
 <h2>🎯 What I Offer</h2>
