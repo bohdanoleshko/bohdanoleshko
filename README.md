@@ -1,6 +1,6 @@
 👋 Hi there! I'm Bohdan Oleshko, a Senior React Developer with 4+ Years of Expertise
 
-🚀 Passionate about creating intuitive user experiences and building robust, performant web applications with React, Next.js, and TypeScript. I'm a problem-solver with a knack for turning ideas into beautiful, functional code.
+🚀 Passionate about creating intuitive user experiences and building robust, performant web applications with React, Next.js, and TypeScript. I'm a problem-solver with a talent for turning ideas into beautiful, functional code.
 
 🔧 Tech Stack Highlights
 
@@ -12,16 +12,16 @@
 ✨ Portfolio Highlights
 
 * **[GEPUR](https://gepur.com/uk)**: Led frontend development for this stylish women's apparel e-commerce site, crafting core pages and shopping features for a seamless user experience.
-[Image of Gepur website]
+[Image of Gepur website](gepur.png)
 
 * **[Trendhim](https://www.trendhim.com/)**:  Developed and maintained key features for this popular men's accessories eCommerce store. Utilized React, Next.js, and Node.js to create a visually appealing and highly functional interface, ensuring a smooth shopping experience for customers. 
-[Image of Trendhim website]
+[Image of Trendhim website](trendhim.png)
 
 * **[INGO](https://ingo.ua/)**: Enhanced the user experience of this insurance platform with intuitive UI/UX components and robust Node.js-based user authentication.
-[Image of INGO website]
+[Image of INGO website](ingo.png)
 
 * **[Dishpatch](https://dishpatch.co.uk/)**: Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.
-[Image of Dishpatch website]
+[Image of Dishpatch website](dishpatch.png)
 
 
 🎯 What I Offer
