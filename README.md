@@ -1,40 +1,68 @@
-👋 Hi there! I'm Bohdan Oleshko, a Senior React Developer with 4+ Years of Expertise
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-🚀 Passionate about creating intuitive user experiences and building robust, performant web applications with React, Next.js, and TypeScript. I'm a problem-solver with a talent for turning ideas into beautiful, functional code.
+<h1>👋 Hi there! I'm Bohdan Oleshko, a Senior React Developer with 4+ Years of Expertise</h1>
 
-🔧 Tech Stack Highlights
+<p>🚀 Passionate about creating intuitive user experiences and building robust, performant web applications with React, Next.js, and TypeScript. I'm a problem-solver with a talent for turning ideas into beautiful, functional code.</p>
 
-* Frontend:  React, Next.js, TypeScript, JavaScript, HTML, CSS, Redux, Material UI, Tailwind CSS, Bootstrap
-* Backend:  Node.js, Express.js, RESTful APIs
-* Databases: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
-* Other: Git, GitHub, Agile methodologies, Responsive Design
+<h2>🔧 Tech Stack Highlights</h2>
 
-✨ Portfolio Highlights
+<ul>
+    <li>Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Redux, Material UI, Tailwind CSS, Bootstrap</li>
+    <li>Backend: Node.js, Express.js, RESTful APIs</li>
+    <li>Databases: MySQL, PostgreSQL, MongoDB, Firebase, Supabase</li>
+    <li>Other: Git, GitHub, Agile methodologies, Responsive Design</li>
+</ul>
 
-* **[GEPUR](https://gepur.com/uk)**: Led frontend development for this stylish women's apparel e-commerce site, crafting core pages and shopping features for a seamless user experience.
-[Image of Gepur website](gepur.png)
+<h2>✨ Portfolio Highlights</h2>
 
-* **[Trendhim](https://www.trendhim.com/)**:  Developed and maintained key features for this popular men's accessories eCommerce store. Utilized React, Next.js, and Node.js to create a visually appealing and highly functional interface, ensuring a smooth shopping experience for customers. 
-[Image of Trendhim website](trendhim.png)
+<div class="project">
+    <h3><a href="https://gepur.com/uk">GEPUR</a></h3>
+    <p>Led frontend development for this stylish women's apparel e-commerce site, crafting core pages and shopping features for a seamless user experience.</p>
+    <img src="gepur.png" alt="Image of Gepur website">
+</div>
 
-* **[INGO](https://ingo.ua/)**: Enhanced the user experience of this insurance platform with intuitive UI/UX components and robust Node.js-based user authentication.
-[Image of INGO website](ingo.png)
+<div class="project">
+    <h3><a href="https://www.trendhim.com/">Trendhim</a></h3>
+    <p>Developed and maintained key features for this popular men's accessories eCommerce store. Utilized React, Next.js, and Node.js to create a visually appealing and highly functional interface, ensuring a smooth shopping experience for customers.</p>
+    <img src="trendhim.png" alt="Image of Trendhim website">
+</div>
 
-* **[Dishpatch](https://dishpatch.co.uk/)**: Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.
-[Image of Dishpatch website](dishpatch.png)
+<div class="project">
+    <h3><a href="https://ingo.ua/">INGO</a></h3>
+    <p>Enhanced the user experience of this insurance platform with intuitive UI/UX components and robust Node.js-based user authentication.</p>
+    <img src="ingo.png" alt="Image of INGO website">
+</div>
+
+<div class="project">
+    <h3><a href="https://dishpatch.co.uk/">Dishpatch</a></h3>
+    <p>Built a visually appealing and dynamic menu website with real-time order updates using React, Next.js, and Tailwind CSS.</p>
+    <img src="dishpatch.png" alt="Image of Dishpatch website">
+</div>
 
 
-🎯 What I Offer
+<h2>🎯 What I Offer</h2>
 
-* **UI/UX Excellence:** Passionate about creating intuitive, visually appealing, and responsive interfaces.
-* **Full-Stack Proficiency:** Experienced in both frontend and backend technologies, ensuring seamless integration and a smooth development process.
-* **Data Expertise:** Comfortable handling complex data interactions, APIs, and state management for optimal performance.
-* **Collaborative Approach:**  Team player with excellent communication skills and a passion for delivering successful projects.
-* **Eager to Learn:** Always seeking to expand my skill set with new technologies and frameworks.
+<ul>
+    <li>UI/UX Excellence: Passionate about creating intuitive, visually appealing, and responsive interfaces.</li>
+    <li>Full-Stack Proficiency: Experienced in both frontend and backend technologies, ensuring seamless integration and a smooth development process.</li>
+    <li>Data Expertise: Comfortable handling complex data interactions, APIs, and state management for optimal performance.</li>
+    <li>Collaborative Approach:  Team player with excellent communication skills and a passion for delivering successful projects.</li>
+    <li>Eager to Learn: Always seeking to expand my skill set with new technologies and frameworks.</li>
+</ul>
 
-🤝 Let's Connect!
+<h2>🤝 Let's Connect!</h2>
 
-Interested in collaborating on your next project? Feel free to reach out!
-* Upwork: [Bohdan Oleshko](https://www.upwork.com/freelancers/~0181b03ee636205c0e?mp_source=share)
+<p>Interested in collaborating on your next project? Feel free to reach out!</p>
+<ul>
+    <li>Upwork: <a href="https://www.upwork.com/freelancers/~0181b03ee636205c0e?mp_source=share">Bohdan Oleshko</a></li>
+</ul>
 
-Let's build something amazing together! 🚀
+<p>Let's build something amazing together! 🚀</p>
+
+</body>
+</html>
