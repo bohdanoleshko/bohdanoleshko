@@ -12,7 +12,7 @@
 <h2>🔧 Tech Stack Highlights</h2>
 
 <ul>
-    <li>Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Redux, Material UI, Tailwind CSS, Bootstrap</li>
+    <li>Frontend: React/React Native, Next.js, TypeScript, JavaScript, HTML, CSS, Redux, Material UI, Tailwind CSS, Bootstrap</li>
     <li>Backend: Node.js, Express.js, RESTful APIs</li>
     <li>Databases: MySQL, PostgreSQL, MongoDB, Firebase, Supabase</li>
     <li>Other: Git, GitHub, Agile methodologies, Responsive Design</li>
