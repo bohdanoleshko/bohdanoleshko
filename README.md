@@ -39,7 +39,7 @@
       </div>
     </td>
     <td align="right" style="padding: 0;">
-      <img src="gepur_preview.png" alt="Image of Gepur website" width="100%">
+      <a href="https://gepur.com/uk"><img src="gepur_preview.png" alt="Image of Gepur website" width="100%"></a>
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@
       </div>
     </td>
     <td align="right">
-      <img src="trendhim_preview.png" alt="Image of Trendhim website" width="100%">
+      <a href="https://www.trendhim.com/"><img src="trendhim_preview.png" alt="Image of Trendhim website" width="100%"></a>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@
       </div>
     </td>
     <td align="right">
-      <img src="ingo_preview.png" alt="Image of INGO website" width="100%">
+      <a href="https://ingo.ua/"><img src="ingo_preview.png" alt="Image of INGO website" width="100%"></a>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,18 @@
       </div>
     </td>
     <td align="right">
-      <img src="dishpatch_preview.png" alt="Image of Dishpatch website" width="100%">
+      <a href="https://dishpatch.co.uk/"><img src="dishpatch_preview.png" alt="Image of Dishpatch website" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="project">
+        <h3><a href="https://play.google.com/store/apps/details?id=com.tidyapp&hl=en&gl=us&pli=1">Cleanster</a></h3>
+        <p>Designed and developed intuitive user interfaces for the Cleanster mobile app, connecting cleaners with customers on Android devices. Prioritized user experience (UX) throughout the design process, ensuring easy navigation and a frictionless booking flow. Implemented the UI using React Native, creating a responsive and visually appealing experience. Integrated with Firebase to provide backend functionality for the app.</p>
+      </div>
+    </td>
+    <td align="right">
+      <a href="https://play.google.com/store/apps/details?id=com.tidyapp&hl=en&gl=us&pli=1"><img src="cleanster_preview.png" alt="Image of Dishpatch website" width="100%"></a>
     </td>
   </tr>
 </table>
