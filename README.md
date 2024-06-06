@@ -93,9 +93,6 @@
 <summary><h2>🤝 Let's Connect!</h2></summary>
 
 <p>Interested in collaborating on your next project? Feel free to reach out!</p>
-<ul>
-    <li>Upwork: <a href="https://www.upwork.com/freelancers/~0181b03ee636205c0e?mp_source=share">Bohdan Oleshko</a></li>
-</ul>
 </details>
 <p>Let's build something amazing together! 🚀</p>
 
