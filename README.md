@@ -86,6 +86,17 @@
       <a href="https://play.google.com/store/apps/details?id=com.tidyapp&hl=en&gl=us&pli=1"><img src="cleanster_preview.png" alt="Image of Dishpatch website" width="100%"></a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div class="project">
+        <h3><a href="https://attio.com/">Attio</a></h3>
+        <p>Led development of a full-stack CRM system with React/Next.js for dynamic user interfaces and streamlined data management, utilizing TypeScript for enhanced type safety. Developed and integrated a GraphQL API layer with the Node.js backend to enable efficient data fetching and updates, enhancing the overall system performance and responsiveness</p>
+      </div>
+    </td>
+    <td align="right">
+      <a href="https://attio.com/"><img src="attio_preview.png" alt="Image of Attio interface" width="100%"></a>
+    </td>
+  </tr>
 </table>
 
 </details>
